@@ -49,7 +49,6 @@ namespace SqlOrders
                 order.CustomerId = customerid;
 
                 orders.Add(order);
-                Console.ReadKey();
 
 
             }
